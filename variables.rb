@@ -6,3 +6,5 @@ pets = 1
 roommates = 3
 deposit = 1200.00
 completion = 0.40
+deposit_paid = true
+started_mod1 = false
